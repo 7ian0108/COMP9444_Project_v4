@@ -1,0 +1,108 @@
+2024-10-23 13:02:38,139 - INFO - Logger initialized. Log file: output\2024_10_23_13_02_38\main.log
+2024-10-23 13:02:38,139 - INFO - Starting main script...
+2024-10-23 13:02:38,139 - INFO - Starting training process...
+2024-10-23 13:02:38,139 - INFO - Logger initialized. Log file: output\2024_10_23_13_02_38\train.log
+2024-10-23 13:06:15,958 - INFO - Epoch 1, Training Diagnosis Loss: 0.4844, Training Malignant Loss: 0.5456
+2024-10-23 13:06:18,375 - INFO - Epoch 1, Validation Diagnosis Loss: 0.3371
+2024-10-23 13:09:21,923 - INFO - Epoch 2, Training Diagnosis Loss: 0.2942, Training Malignant Loss: 0.4154
+2024-10-23 13:09:23,565 - INFO - Epoch 2, Validation Diagnosis Loss: 0.2511
+2024-10-23 13:12:20,806 - INFO - Epoch 3, Training Diagnosis Loss: 0.2389, Training Malignant Loss: 0.3844
+2024-10-23 13:12:22,458 - INFO - Epoch 3, Validation Diagnosis Loss: 0.2197
+2024-10-23 13:15:17,373 - INFO - Epoch 4, Training Diagnosis Loss: 0.2172, Training Malignant Loss: 0.3561
+2024-10-23 13:15:19,003 - INFO - Epoch 4, Validation Diagnosis Loss: 0.2018
+2024-10-23 13:18:12,824 - INFO - Epoch 5, Training Diagnosis Loss: 0.1996, Training Malignant Loss: 0.3304
+2024-10-23 13:18:14,463 - INFO - Epoch 5, Validation Diagnosis Loss: 0.1853
+2024-10-23 13:21:08,357 - INFO - Epoch 6, Training Diagnosis Loss: 0.1921, Training Malignant Loss: 0.3111
+2024-10-23 13:21:09,989 - INFO - Epoch 6, Validation Diagnosis Loss: 0.1691
+2024-10-23 13:24:03,326 - INFO - Epoch 7, Training Diagnosis Loss: 0.1818, Training Malignant Loss: 0.2921
+2024-10-23 13:24:04,974 - INFO - Epoch 7, Validation Diagnosis Loss: 0.1655
+2024-10-23 13:26:58,256 - INFO - Epoch 8, Training Diagnosis Loss: 0.1729, Training Malignant Loss: 0.2851
+2024-10-23 13:26:59,888 - INFO - Epoch 8, Validation Diagnosis Loss: 0.1563
+2024-10-23 13:29:54,176 - INFO - Epoch 9, Training Diagnosis Loss: 0.1666, Training Malignant Loss: 0.2712
+2024-10-23 13:29:55,893 - INFO - Epoch 9, Validation Diagnosis Loss: 0.1521
+2024-10-23 13:32:42,986 - INFO - Epoch 10, Training Diagnosis Loss: 0.1600, Training Malignant Loss: 0.2557
+2024-10-23 13:32:44,595 - INFO - Epoch 10, Validation Diagnosis Loss: 0.1498
+2024-10-23 13:35:32,106 - INFO - Epoch 11, Training Diagnosis Loss: 0.1523, Training Malignant Loss: 0.2381
+2024-10-23 13:35:33,715 - INFO - Epoch 11, Validation Diagnosis Loss: 0.1507
+2024-10-23 13:38:19,894 - INFO - Epoch 12, Training Diagnosis Loss: 0.1481, Training Malignant Loss: 0.2216
+2024-10-23 13:38:21,490 - INFO - Epoch 12, Validation Diagnosis Loss: 0.1476
+2024-10-23 13:41:07,757 - INFO - Epoch 13, Training Diagnosis Loss: 0.1421, Training Malignant Loss: 0.2132
+2024-10-23 13:41:09,342 - INFO - Epoch 13, Validation Diagnosis Loss: 0.1442
+2024-10-23 13:43:56,168 - INFO - Epoch 14, Training Diagnosis Loss: 0.1384, Training Malignant Loss: 0.2058
+2024-10-23 13:43:57,767 - INFO - Epoch 14, Validation Diagnosis Loss: 0.1418
+2024-10-23 13:46:44,717 - INFO - Epoch 15, Training Diagnosis Loss: 0.1349, Training Malignant Loss: 0.1941
+2024-10-23 13:46:46,306 - INFO - Epoch 15, Validation Diagnosis Loss: 0.1456
+2024-10-23 13:49:32,802 - INFO - Epoch 16, Training Diagnosis Loss: 0.1293, Training Malignant Loss: 0.1799
+2024-10-23 13:49:34,414 - INFO - Epoch 16, Validation Diagnosis Loss: 0.1428
+2024-10-23 13:52:21,590 - INFO - Epoch 17, Training Diagnosis Loss: 0.1278, Training Malignant Loss: 0.1687
+2024-10-23 13:52:23,195 - INFO - Epoch 17, Validation Diagnosis Loss: 0.1399
+2024-10-23 13:55:09,566 - INFO - Epoch 18, Training Diagnosis Loss: 0.1248, Training Malignant Loss: 0.1612
+2024-10-23 13:55:11,168 - INFO - Epoch 18, Validation Diagnosis Loss: 0.1363
+2024-10-23 13:57:57,909 - INFO - Epoch 19, Training Diagnosis Loss: 0.1122, Training Malignant Loss: 0.1431
+2024-10-23 13:57:59,497 - INFO - Epoch 19, Validation Diagnosis Loss: 0.1351
+2024-10-23 14:00:46,259 - INFO - Epoch 20, Training Diagnosis Loss: 0.1172, Training Malignant Loss: 0.1452
+2024-10-23 14:00:47,867 - INFO - Epoch 20, Validation Diagnosis Loss: 0.1396
+2024-10-23 14:03:35,041 - INFO - Epoch 21, Training Diagnosis Loss: 0.1110, Training Malignant Loss: 0.1358
+2024-10-23 14:03:36,631 - INFO - Epoch 21, Validation Diagnosis Loss: 0.1367
+2024-10-23 14:06:23,651 - INFO - Epoch 22, Training Diagnosis Loss: 0.1070, Training Malignant Loss: 0.1216
+2024-10-23 14:06:25,255 - INFO - Epoch 22, Validation Diagnosis Loss: 0.1229
+2024-10-23 14:09:12,444 - INFO - Epoch 23, Training Diagnosis Loss: 0.1051, Training Malignant Loss: 0.1242
+2024-10-23 14:09:14,032 - INFO - Epoch 23, Validation Diagnosis Loss: 0.1317
+2024-10-23 14:12:00,612 - INFO - Epoch 24, Training Diagnosis Loss: 0.1007, Training Malignant Loss: 0.1123
+2024-10-23 14:12:02,220 - INFO - Epoch 24, Validation Diagnosis Loss: 0.1198
+2024-10-23 14:14:49,700 - INFO - Epoch 25, Training Diagnosis Loss: 0.0988, Training Malignant Loss: 0.1079
+2024-10-23 14:14:51,296 - INFO - Epoch 25, Validation Diagnosis Loss: 0.1170
+2024-10-23 14:17:38,895 - INFO - Epoch 26, Training Diagnosis Loss: 0.0977, Training Malignant Loss: 0.1029
+2024-10-23 14:17:40,490 - INFO - Epoch 26, Validation Diagnosis Loss: 0.1204
+2024-10-23 14:20:27,376 - INFO - Epoch 27, Training Diagnosis Loss: 0.0962, Training Malignant Loss: 0.0968
+2024-10-23 14:20:28,976 - INFO - Epoch 27, Validation Diagnosis Loss: 0.1161
+2024-10-23 14:23:16,580 - INFO - Epoch 28, Training Diagnosis Loss: 0.0916, Training Malignant Loss: 0.0893
+2024-10-23 14:23:18,183 - INFO - Epoch 28, Validation Diagnosis Loss: 0.1176
+2024-10-23 14:26:06,101 - INFO - Epoch 29, Training Diagnosis Loss: 0.0876, Training Malignant Loss: 0.0870
+2024-10-23 14:26:07,695 - INFO - Epoch 29, Validation Diagnosis Loss: 0.1144
+2024-10-23 14:28:55,608 - INFO - Epoch 30, Training Diagnosis Loss: 0.0884, Training Malignant Loss: 0.0861
+2024-10-23 14:28:57,204 - INFO - Epoch 30, Validation Diagnosis Loss: 0.1095
+2024-10-23 14:31:45,091 - INFO - Epoch 31, Training Diagnosis Loss: 0.0843, Training Malignant Loss: 0.0807
+2024-10-23 14:31:46,687 - INFO - Epoch 31, Validation Diagnosis Loss: 0.1147
+2024-10-23 14:34:34,214 - INFO - Epoch 32, Training Diagnosis Loss: 0.0843, Training Malignant Loss: 0.0765
+2024-10-23 14:34:35,819 - INFO - Epoch 32, Validation Diagnosis Loss: 0.1135
+2024-10-23 14:37:23,858 - INFO - Epoch 33, Training Diagnosis Loss: 0.0823, Training Malignant Loss: 0.0740
+2024-10-23 14:37:25,458 - INFO - Epoch 33, Validation Diagnosis Loss: 0.1172
+2024-10-23 14:40:13,157 - INFO - Epoch 34, Training Diagnosis Loss: 0.0813, Training Malignant Loss: 0.0658
+2024-10-23 14:40:14,759 - INFO - Epoch 34, Validation Diagnosis Loss: 0.1090
+2024-10-23 14:43:02,479 - INFO - Epoch 35, Training Diagnosis Loss: 0.0751, Training Malignant Loss: 0.0635
+2024-10-23 14:43:04,073 - INFO - Epoch 35, Validation Diagnosis Loss: 0.1073
+2024-10-23 14:45:52,266 - INFO - Epoch 36, Training Diagnosis Loss: 0.0735, Training Malignant Loss: 0.0621
+2024-10-23 14:45:53,867 - INFO - Epoch 36, Validation Diagnosis Loss: 0.1112
+2024-10-23 14:48:41,341 - INFO - Epoch 37, Training Diagnosis Loss: 0.0747, Training Malignant Loss: 0.0579
+2024-10-23 14:48:42,953 - INFO - Epoch 37, Validation Diagnosis Loss: 0.1105
+2024-10-23 14:51:30,841 - INFO - Epoch 38, Training Diagnosis Loss: 0.0725, Training Malignant Loss: 0.0535
+2024-10-23 14:51:32,443 - INFO - Epoch 38, Validation Diagnosis Loss: 0.1132
+2024-10-23 14:54:20,059 - INFO - Epoch 39, Training Diagnosis Loss: 0.0690, Training Malignant Loss: 0.0517
+2024-10-23 14:54:21,662 - INFO - Epoch 39, Validation Diagnosis Loss: 0.1097
+2024-10-23 14:57:09,722 - INFO - Epoch 40, Training Diagnosis Loss: 0.0689, Training Malignant Loss: 0.0508
+2024-10-23 14:57:11,332 - INFO - Epoch 40, Validation Diagnosis Loss: 0.1031
+2024-10-23 14:59:59,067 - INFO - Epoch 41, Training Diagnosis Loss: 0.0691, Training Malignant Loss: 0.0490
+2024-10-23 15:00:00,689 - INFO - Epoch 41, Validation Diagnosis Loss: 0.1089
+2024-10-23 15:02:48,629 - INFO - Epoch 42, Training Diagnosis Loss: 0.0640, Training Malignant Loss: 0.0495
+2024-10-23 15:02:50,233 - INFO - Epoch 42, Validation Diagnosis Loss: 0.1240
+2024-10-23 15:05:37,722 - INFO - Epoch 43, Training Diagnosis Loss: 0.0637, Training Malignant Loss: 0.0424
+2024-10-23 15:05:39,331 - INFO - Epoch 43, Validation Diagnosis Loss: 0.1168
+2024-10-23 15:08:26,816 - INFO - Epoch 44, Training Diagnosis Loss: 0.0602, Training Malignant Loss: 0.0381
+2024-10-23 15:08:28,425 - INFO - Epoch 44, Validation Diagnosis Loss: 0.1238
+2024-10-23 15:11:16,054 - INFO - Epoch 45, Training Diagnosis Loss: 0.0625, Training Malignant Loss: 0.0432
+2024-10-23 15:11:17,678 - INFO - Epoch 45, Validation Diagnosis Loss: 0.1052
+2024-10-23 15:14:04,838 - INFO - Epoch 46, Training Diagnosis Loss: 0.0595, Training Malignant Loss: 0.0385
+2024-10-23 15:14:06,442 - INFO - Epoch 46, Validation Diagnosis Loss: 0.1079
+2024-10-23 15:16:53,954 - INFO - Epoch 47, Training Diagnosis Loss: 0.0576, Training Malignant Loss: 0.0335
+2024-10-23 15:16:55,587 - INFO - Epoch 47, Validation Diagnosis Loss: 0.1193
+2024-10-23 15:19:43,063 - INFO - Epoch 48, Training Diagnosis Loss: 0.0575, Training Malignant Loss: 0.0373
+2024-10-23 15:19:44,674 - INFO - Epoch 48, Validation Diagnosis Loss: 0.1107
+2024-10-23 15:22:32,275 - INFO - Epoch 49, Training Diagnosis Loss: 0.0530, Training Malignant Loss: 0.0374
+2024-10-23 15:22:33,895 - INFO - Epoch 49, Validation Diagnosis Loss: 0.1138
+2024-10-23 15:22:34,009 - INFO - Early stopping triggered!
+2024-10-23 15:22:34,009 - INFO - Training completed.
+2024-10-23 15:22:34,011 - INFO - Starting testing process...
+2024-10-23 15:22:34,012 - INFO - Logger initialized. Log file: output\2024_10_23_13_02_38\test.log
+2024-10-23 15:22:34,014 - ERROR - An error occurred: name 'MODEL_DIR' is not defined
+2024-10-23 15:22:34,014 - INFO - Main script completed.
